@@ -24,3 +24,6 @@
 - Description in files:
   - [/components/component/component.cpp:4](https://github.com/4Source/Project-Setup/blob/d0a30ee06092705232845d85a749df3a7887d91c/esp-idf-project/components/component/component.cpp#L4)
   - [/components/component/component.hpp:6](https://github.com/4Source/Project-Setup/blob/d0a30ee06092705232845d85a749df3a7887d91c/esp-idf-project/components/component/component.hpp#L6)
+- Include in files: 
+  - [/main/main.c:25](https://github.com/4Source/Project-Setup/blob/da2175330230b3a902285eda124a9fbd745949f1/esp-idf-project/main/main.c#L25)
+  - [/components/component/component.cpp:26](https://github.com/4Source/Project-Setup/blob/bcfb333a21ef27472fa92ad01894c634289464ed/esp-idf-project/components/component/component.cpp#L26)
