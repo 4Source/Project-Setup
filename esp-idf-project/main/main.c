@@ -22,6 +22,7 @@
  */
 
 #include <esp_log.h>
+#include "component.hpp"
 static const char *TAG = "main";
 
 void app_main(void)
